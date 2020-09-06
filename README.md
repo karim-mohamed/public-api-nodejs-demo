@@ -68,3 +68,7 @@ node bin/cli_tool.js myself
 
 node bin/cli_tool.js organizations
 ```
+
+## Robotjs
+
+visit https://github.com/octalmage/robotjs#building for required dependencies.
